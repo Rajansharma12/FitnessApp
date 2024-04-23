@@ -1,0 +1,320 @@
+<resources>
+    <string name="app_name">Fitness App</string>
+
+
+    <string name="pose1">    Step 1:- Start in the push-up position with your arms completely straight and directly beneath your shoulders.\n\n
+                             Step 2:- Your body should form a straight line from your shoulders to your ankles. \n\n
+                             Step 3:- Squeeze your abs, lift one foot off the floor and bring your knee up towards your chest while keeping your body in as straight of a line as possible. \n\n
+                             Step 4:- Return to the starting position and repeat the movement with your opposite leg.\n\n
+
+                              चरण 1:- अपनी बाहों को पूरी तरह से सीधा और सीधे अपने कंधों के नीचे रखकर पुश-अप स्थिति में शुरुआत करें।\n\n
+                              चरण 2:- आपके शरीर को आपके कंधों से लेकर आपके टखनों तक एक सीधी रेखा बनानी चाहिए। \n\n
+                              चरण 3:- अपने पेट को निचोड़ें, एक पैर को फर्श से उठाएं और अपने शरीर को जितना संभव हो सके एक रेखा में सीधा रखते हुए अपने घुटने को अपनी छाती की ओर लाएं। \n\n
+                              चरण 4:- प्रारंभिक स्थिति में लौटें और अपने विपरीत पैर से इस क्रिया को दोहराएं। </string>
+    <string name="pose2">    Step 1:- Lie flat on your mat with knees bent and feet on the mat. Hands at the base ofyour head and elbows pointed out. Using your abdominals bring your head and shoulders off the mat and come up into a crunch, then lower with control.\n\n
+                              चरण 1:- अपनी चटाई पर घुटनों को मोड़कर और पैरों को चटाई पर रखकर सीधे लेट जाएं। हाथ आपके सिर के आधार पर और कोहनियाँ बाहर की ओर हों। अपने पेट का उपयोग करते हुए अपने सिर और कंधों को चटाई से ऊपर लाएँ और एक क्रंच स्थिति में आएँ, फिर नियंत्रण के साथ नीचे आएँ।</string>
+    <string name="pose3">    Step 1:- This movement is performed with a bench and a foot stool.\n\n
+                             Step 2:- Place a bench behind yourself and rest on it with your hands. Place your legs straight out in front of you. You may also place them at an elevated level as shown above.\n\n
+                             Step 3:- Begin with arms in a fully. Slowly bend at your elbows keeping the rest of your body straight. Be sure to keep your elbows back and close together.\n\n
+                             Step 4:- Dip down until your arms form a 90 degree angle and you feel a stretch in the triceps.\n\n
+                             Step 5:- Slowly extend your arms raising your body back up. Pause and contract your triceps muscles at the top. Pause and repeat the movement.\n\n
+                              चरण 1:- यह आंदोलन एक बेंच और एक फुट स्टूल के साथ किया जाता है।\n\n
+                              चरण 2:- अपने पीछे एक बेंच रखें और अपने हाथों को उस पर टिकाएं। अपने पैरों को अपने सामने सीधा रखें। जैसा कि ऊपर दिखाया गया है, आप उन्हें ऊंचे स्तर पर भी रख सकते हैं।\n\n
+                              चरण 3:- पूरी तरह से बाहों से शुरुआत करें। अपने शरीर के बाकी हिस्सों को सीधा रखते हुए धीरे-धीरे अपनी कोहनियों को मोड़ें। सुनिश्चित करें कि आपकी कोहनियाँ पीछे रहें और एक साथ बंद रहें।\n\n
+                              चरण 4:- तब तक नीचे झुकें जब तक आपकी भुजाएं 90 डिग्री का कोण न बना लें और आपको ट्राइसेप्स में खिंचाव महसूस न हो।\n\n
+                              चरण 5:- धीरे-धीरे अपने शरीर को ऊपर उठाते हुए अपनी बाहों को फैलाएं। शीर्ष पर अपनी ट्राइसेप्स मांसपेशियों को रोकें और सिकोड़ें। रुकें और आंदोलन को दोहराएं।</string>
+    <string name="pose4">    Step 1:- Lie flat on the floor with your lower back pressed to the ground (pull your navel in to also target your deep abs). \n\n
+                             Step 2:- Put your hands behind your head, then bring your knees in towards your Chest and lift your shoulder blades off the ground, but be sure not to pull on your neck.\n\n
+                             Step 3:-Straighten your right leg out to about a 4S-degree angle to the ground while turning your upper body to the left, bringing your right elbow towards the left knee.\n\n
+                             Step 4:- Make sure your rib cage is moving and hotjust your elbows. Now switch sides and do the same motion on the other side to complete onerep.\n\n
+                              चरण 1:- अपनी पीठ के निचले हिस्से को जमीन पर टिकाकर फर्श पर सपाट लेट जाएं (अपने गहरे पेट को भी लक्षित करने के लिए अपनी नाभि को अंदर खींचें)। \n\n
+                              चरण 2:- अपने हाथों को अपने सिर के पीछे रखें, फिर अपने घुटनों को अपनी छाती की ओर लाएँ और अपने कंधे के ब्लेड को ज़मीन से ऊपर उठाएँ, लेकिन सुनिश्चित करें कि आप अपनी गर्दन को न खींचें।\n\n
+                              चरण 3:- अपने दाहिने पैर को ज़मीन से लगभग 4S-डिग्री के कोण पर सीधा करें, जबकि अपने ऊपरी शरीर को बाईं ओर मोड़ें, अपनी दाहिनी कोहनी को बाएं घुटने की ओर लाएं।\n\n
+                              चरण 4:- सुनिश्चित करें कि आपकी पसली हिल रही है और अपनी कोहनियों को गर्म करें। अब किनारे बदलें और एकरेप पूरा करने के लिए दूसरी तरफ भी यही गति करें।</string>
+    <string name="pose5">    Step 1:- Lay down with your hands to your sides for support. \n\n
+                             Step 2:- Raise your legs so they are off the ground, keeping the abdominals tight.\n\n
+                             Step 3:- Slowly raise your legs 90 degrees, contracting the abdominal muscles. Slowly return to starting position. Do not touch the floor with your feet.\n\n
+                              चरण 1:- सहारे के लिए अपने हाथों को बगल में रखकर लेट जाएं। \n\n
+                              चरण 2:- अपने पैरों को ऊपर उठाएं ताकि वे जमीन से ऊपर रहें, पेट को टाइट रखें।\n\n
+                              चरण 3:- पेट की मांसपेशियों को सिकोड़ते हुए धीरे-धीरे अपने पैरों को 90 डिग्री ऊपर उठाएं। धीरे-धीरे प्रारंभिक स्थिति में लौट आएं। अपने पैरों से फर्श को न छुएं.\n\n
+                            </string>
+
+
+    <string name="pose6">    Step 1:- Lie on your back on an exercise mat. With your arms straight at your sides, bend your knees and place your feet flat on the floor between18 and 24 inches apart.\n\n
+                             Step 2:- Breathing out, crunch your ab slightly upward and sideways to the right a couple of inches until your right hand touches your right heel.\n\n
+                             Step 3:- Hold brief|y and then return to your starting position while inhaling. Repeat on the left side.\n\n
+                              चरण 1:- व्यायाम चटाई पर अपनी पीठ के बल लेट जाएं। अपनी भुजाओं को अपनी तरफ सीधा रखते हुए, अपने घुटनों को मोड़ें और अपने पैरों को 18 से 24 इंच के बीच फर्श पर सपाट रखें।\n\n
+                              चरण 2:- सांस छोड़ते हुए, अपने पेट को थोड़ा ऊपर की ओर और कुछ इंच तक दाहिनी ओर मोड़ें जब तक कि आपका दाहिना हाथ आपकी दाहिनी एड़ी को न छू ले।\n\n
+                              चरण 3:- थोड़ी देर रुकें और फिर सांस लेते हुए अपनी प्रारंभिक स्थिति में लौट आएं। बाईं ओर दोहराएँ.</string>
+    <string name="pose7">    Step 1:- You can perform straight-leg crunches by lying face up on the floor with your legs straight and then moving your upper body as you would for a standard bent-knee crunch.\n\n
+                             Step 2:- Alternatively, lie on your back, raise your legs so they are perpendicular to the floor and then perform the standard crunching motion with your torso.\n\n
+                              चरण 1:- आप अपने पैरों को सीधा रखते हुए फर्श पर मुंह करके लेटकर और फिर अपने ऊपरी शरीर को उसी तरह हिला सकते हैं जैसे आप एक मानक मुड़े हुए घुटने के क्रंच के लिए करते हैं।\n\n
+                              चरण 2:- वैकल्पिक रूप से, अपनी पीठ के बल लेटें, अपने पैरों को ऊपर उठाएं ताकि वे फर्श के लंबवत हों और फिर अपने धड़ के साथ मानक क्रंचिंग गति करें।
+                             </string>
+    <string name="pose8">    Step 1:- Lie down on the floor placing your feet either under something that Will not move or by having a partner hold them. Your legs should be bent at the kneesPlace your hands behind your head and lock them together by claspihg your fingers. This is the starting position.\n\n
+                             Step 2:- Elevate your upper body so that it creates an imaginary V-shape with your thighs. Breathe out when performing this part of the exercise.\n\n
+                             Step 3:- Once you feel the contraction for a second, lower your upper body back down to the starting position while inhahng. \n\n
+                             Step 4:- Repeat for the recommended amount of repetitions.\n\n
+                              चरण 1:- अपने पैरों को या तो किसी ऐसी चीज के नीचे रखकर फर्श पर लेट जाएं जो हिल न सके या किसी साथी से उन्हें पकड़वाएं। आपके पैर घुटनों पर मुड़े होने चाहिए, अपने हाथों को अपने सिर के पीछे रखें और अपनी उंगलियों को आपस में जोड़कर उन्हें एक साथ लॉक कर लें। यह प्रारंभिक स्थिति है.\n\n
+                              चरण 2:- अपने ऊपरी शरीर को ऊपर उठाएं ताकि यह आपकी जांघों के साथ एक काल्पनिक वी-आकार बनाए। व्यायाम के इस भाग को करते समय सांस छोड़ें।\n\n
+                              चरण 3:- एक बार जब आप एक सेकंड के लिए संकुचन महसूस करें, तो सांस लेते हुए अपने ऊपरी शरीर को वापस प्रारंभिक स्थिति में ले आएं। \n\n
+                              चरण 4:- दोहराव की अनुशंसित मात्रा के लिए दोहराएँ।
+                            </string>
+    <string name="pose9">    Step 1:- Lying on the back,lift stright leg,extend opposite hand to touch toe. \n\n
+                             Step 2:- Please,return,alternate inhale down,exhale up at toe touch.\n\n
+                              चरण 1:- पीठ के बल लेटकर, सीधा पैर उठाएं, पैर के अंगूठे को छूने के लिए विपरीत हाथ बढ़ाएं। \n\n
+                              चरण 2:- कृपया वापस आएं, बारी-बारी से नीचे की ओर सांस लें, पैर के अंगूठे को छूते हुए ऊपर की ओर सांस छोड़ें।
+                            </string>
+    <string name="pose10">   Step 1:- High Plank position then slowly rotate your torso to the side raising your arm till it gets ihlihe with the other one. \n\n
+                             Step 2:- Then return to the initial position.\n\n
+                              चरण 1:- हाई प्लैंक पोजीशन, फिर धीरे-धीरे अपने धड़ को अपनी बांह को ऊपर उठाते हुए तब तक घुमाएं जब तक कि वह दूसरे के साथ न मिल जाए। \n\n
+                              चरण 2:- फिर प्रारंभिक स्थिति में लौट आएं।
+                            </string>
+    <string name="pose11">   Step 1:- Lie on the floor with elbows directly beneath your shoulders and legs fully extended.\n\n
+                             Step 2:- Raise your torso into the air until it makes a straight line from your shoulders to your ankles. Tighten your stomach, squeeze your butt.\n\n
+                              चरण 1:- कोहनियों को अपने कंधों के ठीक नीचे और पैरों को पूरी तरह फैलाकर फर्श पर लेटें।\n\n
+                              चरण 2:- अपने धड़ को हवा में तब तक उठाएं जब तक कि यह आपके कंधों से लेकर आपके टखनों तक एक सीधी रेखा न बना ले। अपने पेट को कस लें, अपने नितंब को दबा लें।
+                            </string>
+    <string name="pose12">   Step 1:- Lie down on the floor placing your feet either under something that will not move or by having a partner hold them. Your legs should be bent at the knees. Elevate your upper body so that it creates an imaginary V-shape with your thighs. \n\n
+                             Step 2:- Your arms should be fully extended in front of you perpendicular to your torso and with the hands clasped. This is the starting position.\n\n
+                             Step 3:- This is the starting position. Twist your torso to the right side until your arms are parallel with the floor while breathing out. \n\n
+                             Step 4:- Hold the contraction for a second and move back to the starting position while breathing out. Now move to the opposite side performing the same techniques you applied to the right side. Repeat for the recommended amount of repetitions.\n\n
+                              चरण 1:- अपने पैरों को या तो किसी ऐसी चीज के नीचे रखकर फर्श पर लेट जाएं जो हिल न सके या किसी साथी से उन्हें पकड़वाएं। आपके पैर घुटनों पर मुड़े होने चाहिए। अपने ऊपरी शरीर को ऊपर उठाएं ताकि यह आपकी जांघों के साथ एक काल्पनिक वी-आकार बनाए। \n\n
+                              चरण 2:- आपकी भुजाएं आपके धड़ के लंबवत आपके सामने पूरी तरह फैली हुई होनी चाहिए और हाथ आपस में जुड़े हुए होने चाहिए। यह प्रारंभिक स्थिति है.\n\n
+                              चरण 3:- यह प्रारंभिक स्थिति है। सांस छोड़ते हुए अपने धड़ को दाहिनी ओर तब तक मोड़ें जब तक कि आपकी भुजाएं फर्श के समानांतर न हो जाएं। \n\n
+                              चरण 4:- संकुचन को एक सेकंड के लिए रोककर रखें और सांस छोड़ते हुए वापस प्रारंभिक स्थिति में आ जाएं। अब वही तकनीक अपनाते हुए विपरीत दिशा में जाएं जो आपने दाहिनी ओर लागू की थी। दोहराव की अनुशंसित मात्रा के लिए दोहराएँ।
+                            </string>
+    <string name="pose13">   Step 1:- Lie on your back with your knees bent, feet flat and hip width. \n\n
+                             Step 2:- Lower your pelvis 2 inches from the floor. Squeeze your glutes and lift your pelvis back to bridge position.\n\n
+                              चरण 1:- अपने घुटनों को मोड़कर, पैरों को सपाट और कूल्हे की चौड़ाई के साथ अपनी पीठ के बल लेटें। \n\n
+                              चरण 2:- अपनी श्रोणि को फर्श से 2 इंच नीचे करें। अपने ग्लूट्स को निचोड़ें और अपने श्रोणि को पुल की स्थिति में वापस उठाएं।
+
+                            </string>
+    <string name="pose14">   Step 1:- Lie facedown on the floor with your arms extended in front of you and your leg extended behind you. \n\n
+                             Step 2:- In one movement,engage your glutes and lower back to raise your arms,legs,and chest off the floor.\n\n
+                             Step 3:- Hold for a count,then slowly return to the starting position.\n\n
+                              चरण 1:- अपनी बाहों को अपने सामने फैलाकर और अपने पैर को पीछे की ओर फैलाकर फर्श पर मुंह करके लेट जाएं। \n\n
+                              चरण 2:- एक ही गति में, अपनी बाहों, पैरों और छाती को फर्श से ऊपर उठाने के लिए अपने ग्लूट्स और पीठ के निचले हिस्से को शामिल करें।\n\n
+                              चरण 3:- गिनती के लिए रुकें, फिर धीरे-धीरे प्रारंभिक स्थिति में लौट आएं।
+                            </string>
+    <string name="pose15">   Step 1:- Stand, extend arms 90° to sides, bend forward 90° at waist.\n\n
+                             Step 2:- Looking at the floor, rotate torso to touch hand to foot, rotate for other hand. \n\n
+                             Step 3:- Head will follow chest action.\n\n
+                              चरण 1:- खड़े हो जाएं, भुजाओं को बगल में 90° फैलाएं, कमर से 90° आगे की ओर झुकें।\n\n
+                              चरण 2:- फर्श को देखते हुए, हाथ को पैर से छूने के लिए धड़ को घुमाएं, दूसरे हाथ को घुमाएं। \n\n
+                              चरण 3:- सिर छाती की क्रिया का अनुसरण करेगा।</string>
+
+
+    <string-array name="title_story">
+
+        <item>Build More Muscle</item>
+        <item>Replace Coffee with Matcha Green Tea</item>
+        <item>Just Keep Moving</item>
+        <item>Stop Counting Calories</item>
+        <item>Pick Up a Kettlebell</item>
+        <item>Do Yoga</item>
+        <item>Get Intense</item>
+        <item>Stop Sleeping In</item>
+        <item>Make One Meal a Day Vegan</item>
+        <item>Go Green</item>
+        <item>Enjoy Some Lemon Water</item>
+        <item>Set Clear Goals</item>
+        <item>Fuel Up Before Your Workout</item>
+        <item>And Fuel Up After</item>
+        <item>Jump</item>
+        <item>Get At Least 7 Hours Sleep</item>
+        <item>Get Over the Crunch</item>
+        <item>Drop the Wheat</item>
+        <item>Change Up Your Workout</item>
+        <item>Work Your Abs 3 Days a Week</item>
+
+
+    </string-array>
+
+    <string-array name="details_story">
+
+        <item>Build More Muscle:-\n\n1.This one may sound counter-intuitive at first, but building
+            more muscle mass is one of the best ways to enhance your metabolism. A higher metabolic
+            rate means that your body can burn more fat, including fat around your waistline. This
+            is an important step in getting 6 pack results, because no matter how many crunches you
+            do, you won’t see all your hard work without burning off some fat. So hit the weights!\n\n
+            यह पहली बार में अटपटा लग सकता है, लेकिन निर्माण
+            अधिक मांसपेशी द्रव्यमान आपके चयापचय को बढ़ाने के सर्वोत्तम तरीकों में से एक है। एक उच्च चयापचय
+            दर का मतलब है कि आपका शरीर अधिक वसा जला सकता है, जिसमें आपकी कमर के आसपास की वसा भी शामिल है। यह
+            6 पैक परिणाम प्राप्त करने के लिए यह एक महत्वपूर्ण कदम है, क्योंकि इससे कोई फर्क नहीं पड़ता कि आप कितने क्रंच करते हैं
+            करो, आप कुछ वसा जलाए बिना अपनी सारी मेहनत नहीं देख पाएंगे। तो वज़न मारो!
+        </item>
+        <item>Replace Coffee with Matcha Green Tea:-\n\n2. Consuming thermogenic foods, like those
+            that contain caffeine, is another effective way to boost metabolism. Although coffee
+            will do it, matcha green tea is even better for your health, and it doesn’t come with
+            the jitters. Try it here – Green Foods Matcha Green Tea.\n\n
+            जैसे थर्मोजेनिक खाद्य पदार्थों का सेवन करना
+            इसमें कैफीन होता है, जो चयापचय को बढ़ावा देने का एक और प्रभावी तरीका है। हालाँकि कॉफ़ी
+            यह करेगा, माचा ग्रीन टी आपके स्वास्थ्य के लिए और भी बेहतर है, और यह इसके साथ नहीं आती है
+            घबराहट. इसे यहां आज़माएं - ग्रीन फूड्स माचा ग्रीन टी।
+        </item>
+        <item>Just Keep Moving:-\n\n3. Research shows that even the smallest movements, like
+            fidgeting or tapping your toes, can actually burn a lot of calories. And burning more
+            calories is a critical step to seeing 6 pack abs. So keep moving throughout your day,
+            and try not to sit for too long.\n\n
+            शोध से पता चलता है कि छोटी-छोटी हरकतें भी पसंद आती हैं
+            अपने पैर की उंगलियों को हिलाना या थपथपाना वास्तव में बहुत सारी कैलोरी जला सकता है। और अधिक जल रहा है
+            6 पैक एब्स देखने के लिए कैलोरी एक महत्वपूर्ण कदम है। इसलिए पूरे दिन चलते रहें,
+            और कोशिश करें कि ज्यादा देर तक न बैठें।
+
+        </item>
+        <item>Stop Counting Calories:-\n\n4.I’ve never been a big fan of counting calories. It’s
+            misleading, and it allows you to ignore the nutritional content of your food. Rather
+            than counting calories, make it your goal to eat only whole foods, and remove the
+            processed and packages stuff.\n\n
+            मैं कभी भी कैलोरी गिनने का बड़ा प्रशंसक नहीं रहा। इसका
+             भ्रामक है, और यह आपको अपने भोजन की पोषण सामग्री को अनदेखा करने की अनुमति देता है। की अपेक्षा
+             कैलोरी गिनने के बजाय, केवल संपूर्ण खाद्य पदार्थ खाने को अपना लक्ष्य बनाएं और हटा दें
+             संसाधित और पैकेज सामग्री।
+        </item>
+        <item>Pick Up a Kettlebell:-\n\n5. Kettlebells are a great alternative to dumbbells, and
+            they can be used for a variety of intense, full body exercises that are great for
+            getting your abs and core into shape. (See my 15 Minute Killer Kettlebell workout here)\n\n
+            केटलबेल डम्बल का एक बढ़िया विकल्प है, और
+             इनका उपयोग विभिन्न प्रकार के गहन, संपूर्ण शरीर के व्यायामों के लिए किया जा सकता है जो बहुत अच्छे हैं
+             अपने एब्स और कोर को आकार में लाना। (मेरा 15 मिनट का किलर केटलबेल वर्कआउट यहां देखें)
+        </item>
+        <item>Do Yoga:-\n\n6. You may be surprised, but yoga is a great way to get 6 pack abs. Yoga
+            involves a lot of balance and flexibility training, both of which require muscles that
+            you normally don’t work out. And of all the muscles engaged, your abdominal and core
+            muscles are doing a lot of the work. See better 6 pack results by adding a little yoga
+            into your routine. If you’re a beginner, check out this Gaiam Yoga for Beginners Kit .\n\n
+            आपको आश्चर्य हो सकता है, लेकिन योग 6 पैक एब्स पाने का एक शानदार तरीका है। योग
+             इसमें बहुत अधिक संतुलन और लचीलेपन का प्रशिक्षण शामिल होता है, दोनों के लिए मांसपेशियों की आवश्यकता होती है
+             आप आम तौर पर वर्कआउट नहीं करते हैं। और सभी मांसपेशियों में से, आपका पेट और कोर
+             मांसपेशियाँ बहुत सारा काम कर रही हैं। थोड़ा सा योग जोड़कर बेहतर 6 पैक परिणाम देखें
+             अपनी दिनचर्या में. यदि आप शुरुआती हैं, तो शुरुआती किट के लिए इस गैयम योग को देखें।
+        </item>
+        <item>Get Intense:-\n\n7. Total body fitness is really about quality over quantity. Spending
+            hours in the gym or getting in a long treadmill workout simply won’t cut it. For real
+            results, you need to get intense. Aim for shorter intervals of more intense exercise, no
+            matter what you’re doing. (An excellent resource is our 5 Day Total Body Toning
+            Workout).\n\n
+            संपूर्ण शरीर की फिटनेस वास्तव में मात्रा से अधिक गुणवत्ता पर आधारित है। खर्च
+             जिम में घंटों बिताने या लंबे समय तक ट्रेडमिल वर्कआउट करने से इसमें कोई कटौती नहीं होगी। वास्तव में
+             परिणाम, आपको तीव्र होने की आवश्यकता है। अधिक गहन व्यायाम के छोटे अंतराल का लक्ष्य रखें, नहीं
+             इससे कोई फर्क नहीं पड़ता कि आप क्या कर रहे हैं. (एक उत्कृष्ट संसाधन हमारा 5 दिवसीय टोटल बॉडी टोनिंग है
+             कसरत करना)।
+        </item>
+        <item>Stop Sleeping In:-\n\n8. If you want to achieve real 6 pack success, you’ve got to get
+            motivated. Hitting the snooze button is not the best way to start your day. Get up, and
+            hammer out that morning workout to start things off on the right foot.\n\n
+            यदि आप वास्तविक 6 पैक सफलता प्राप्त करना चाहते हैं, तो आपको यह प्राप्त करना ही होगा
+             प्रेरित. स्नूज़ बटन दबाना अपने दिन की शुरुआत करने का सबसे अच्छा तरीका नहीं है। उठो, और
+             दाहिने पैर से काम शुरू करने के लिए सुबह की कसरत करें।
+        </item>
+        <item>Make One Meal a Day Vegan:-\n\n9. Reducing your intake of animal protein can help
+            improve your health in a number of ways, according to new research. In addition to
+            reducing cholesterol and getting your blood sugar levels in check, you’ll also reduce
+            some of that body fat. Try going vegan for one meal a day.\n\n
+            पशु प्रोटीन का सेवन कम करने से मदद मिल सकती है
+             नए शोध के अनुसार, कई तरीकों से अपने स्वास्थ्य में सुधार करें। निम्न के अलावा
+             कोलेस्ट्रॉल को कम करने और अपने रक्त शर्करा के स्तर को नियंत्रित करने से, आप भी कम कर देंगे
+             उस शरीर की कुछ चर्बी। दिन में एक बार शाकाहारी भोजन करने का प्रयास करें।
+        </item>
+        <item>Go Green:-\n\n 10. An easy way to add more nutrition to your diet is to invest in a
+            plant-based supplement like Amazing Grass Green SuperFood Powder. Not only will you
+            boost your metabolism and burn more fat, you’ll also feel more energized to knock out
+            those ab workouts.\n\n
+            अपने आहार में अधिक पोषण जोड़ने का एक आसान तरीका निवेश करना है
+             अमेजिंग ग्रास ग्रीन सुपरफूड पाउडर जैसे पौधे-आधारित पूरक। न केवल आप करेंगे
+             अपने चयापचय को बढ़ावा दें और अधिक वसा जलाएं, आप बाहर निकलने के लिए अधिक ऊर्जावान भी महसूस करेंगे
+             वो एब वर्कआउट.
+        </item>
+        <item>Enjoy Some Lemon Water:-\n\n 11.If you’re looking for a natural daily detox, simple
+            lemon water works really well. Enjoy it hot in the mornings, or take it with you on the
+            go. You’ll significantly improve your ability to lose weight.\n\n
+            11.यदि आप प्राकृतिक दैनिक डिटॉक्स की तलाश में हैं, तो सरल
+               नींबू पानी वास्तव में अच्छा काम करता है। सुबह गर्मागर्म इसका आनंद लें, या इसे अपने साथ ले जाएं
+               जाना। आप वजन कम करने की अपनी क्षमता में उल्लेखनीय सुधार करेंगे।
+        </item>
+        <item>Set Clear Goals :-\n\n 12. Whether your goal is stronger abs or just a flatter
+            waistline, you have to set some clear goals. Write your goals down, and come up with
+            some specific ways to achieve them. And make sure your goals are practical!\n\n
+            12. चाहे आपका लक्ष्य मजबूत एब्स हो या सिर्फ चापलूसी
+                कमर, आपको कुछ स्पष्ट लक्ष्य निर्धारित करने होंगे। अपने लक्ष्य लिखें, और प्राप्त करें
+                उन्हें प्राप्त करने के कुछ विशिष्ट तरीके। और सुनिश्चित करें कि आपके लक्ष्य व्यावहारिक हों!
+        </item>
+        <item>Fuel Up Before Your Workout:-\n\n 13.Giving your body the fuel it needs is key to
+            maximizing your workouts. A pre-workout shake is a great way to get started, especially
+            one that includes time released protein to keep fueling your muscles. Try Combat Powder
+            to get great results.\n\n
+            13.अपने शरीर को आवश्यक ईंधन देना महत्वपूर्ण है
+               अपने वर्कआउट को अधिकतम करना। खासकर, प्री-वर्कआउट शेक शुरुआत करने का एक शानदार तरीका है
+               जिसमें आपकी मांसपेशियों को ऊर्जा प्रदान करने के लिए समय पर जारी प्रोटीन शामिल होता है। कॉम्बैट पाउडर आज़माएं
+               अच्छे परिणाम पाने के लिए.
+        </item>
+        <item>And Fuel Up After:- \n\n 14.Make sure you follow up every workout with a solid serving
+            of protein, healthy carbs, and vitamin-rich food. This is necessary in order to get the
+            most out of your efforts, and improve your recovery.\n\n
+            14.सुनिश्चित करें कि आप प्रत्येक कसरत के बाद ठोस खुराक लें
+               प्रोटीन, स्वस्थ कार्ब्स और विटामिन युक्त भोजन। प्राप्त करने के लिए यह आवश्यक है
+               अपने प्रयासों से अधिकतम लाभ उठाएं, और अपनी पुनर्प्राप्ति में सुधार करें।
+        </item>
+        <item>Jump :-\n\n 15. Jump training, also known as plyometrics, is a great way to engage
+            your entire body and really challenge your core and abdominal muscles. Adding a little
+            jump rope alone can go a long way. (This Jump Rope Interval Training Routine will kick
+            your butt and really target fat loss)\n\n
+            15. जंप ट्रेनिंग, जिसे प्लायोमेट्रिक्स भी कहा जाता है, संलग्न रहने का एक शानदार तरीका है
+                आपके पूरे शरीर और वास्तव में आपके कोर और पेट की मांसपेशियों को चुनौती देता है। थोड़ा जोड़ना
+                अकेले रस्सी कूदने से बहुत आगे तक जाया जा सकता है। (यह जंप रोप इंटरवल ट्रेनिंग रूटीन प्रभावी होगा
+                आपका बट और वास्तव में वसा हानि का लक्ष्य)
+        </item>
+        <item>Get At Least 7 Hours Sleep:-\n\n 16. Getting a good night’s sleep can improve
+            literally every aspect of your life, including your fitness and weight loss success. One
+            night of poor sleep can lead to unwanted hunger spikes, nasty cravings, and lower
+            energy. If you need some help sleeping, try Natrol Melatonin.\n\n
+            16. रात को अच्छी नींद लेने से सुधार हो सकता है
+                वस्तुतः आपके जीवन के हर पहलू, जिसमें आपकी फिटनेस और वजन घटाने की सफलता भी शामिल है। एक
+                रात की ख़राब नींद से अवांछित भूख बढ़ सकती है, ख़राब लालसा और कम हो सकती है
+                ऊर्जा। यदि आपको सोने में कुछ मदद चाहिए, तो नैट्रोल मेलाटोनिन आज़माएँ।
+        </item>
+        <item>Get Over the Crunch :-\n\n 17. Real 6 pack abs are not made by crunches alone. To see
+            serious results, you’ve got to do more than just simple crunches. Grab a stability ball,
+            a bosu ball, or get off the ground with a hanging leg raise. Whatever you do, keep
+            pushing yourself.\n\n
+            17. असली 6 पैक एब्स सिर्फ क्रंचेज से नहीं बनते। देखने के लिए
+                गंभीर परिणाम, आपको केवल साधारण क्रंचेज के अलावा और भी बहुत कुछ करना होगा। एक स्थिरता गेंद पकड़ो,
+                एक बोसु गेंद, या लटकते हुए पैर को ऊपर उठाकर जमीन से बाहर निकलें। जो भी करो, रखो
+                अपने आप को धकेलना.
+        </item>
+        <item>Drop the Wheat:-\n\n 18. There’s a lot of evidence out there to suggest that removing
+            processed wheat from your diet can significantly improve your fat burning results, and
+            that means a leaner, more toned, and more visible 6 pack. Give it a try, and go for less
+            processed carbs like quinoa.\n\n
+            18. इसे हटाने का सुझाव देने वाले बहुत सारे सबूत हैं
+                आपके आहार से प्रसंस्कृत गेहूं आपके वसा जलने के परिणामों में काफी सुधार कर सकता है, और
+                इसका मतलब है एक दुबला, अधिक सुडौल और अधिक दृश्यमान 6 पैक। इसे आज़माएं, और कम खरीदें
+                क्विनोआ जैसे प्रसंस्कृत कार्बोहाइड्रेट।
+        </item>
+        <item>Change Up Your Workout:-\n\n 19. Constantly changing up your workout is crucial to
+            keep seeing results, whether your goal is a 6 pack or a more toned physique overall. I
+            recommend adding a new exercise to your workout routine at least once a week, and make
+            sure you make sure serious changes every 6-8 weeks.\n\n
+            19. अपने वर्कआउट में लगातार बदलाव करना महत्वपूर्ण है
+                परिणाम देखते रहें, चाहे आपका लक्ष्य 6 पैक हो या समग्र रूप से अधिक सुडौल शरीर। मैं
+                सप्ताह में कम से कम एक बार अपने वर्कआउट रूटीन में एक नया व्यायाम जोड़ने की सलाह दें और बनाएं
+                सुनिश्चित करें कि आप हर 6-8 सप्ताह में गंभीर परिवर्तन सुनिश्चित करें।
+        </item>
+        <item>Work Your Abs 3 Days a Week:-\n\n 20.There are different philosophies to this, but I
+            find the best approach to exercising your abs is to do so a few days a week, in shorter
+            workouts that are combined with total body workouts. Try spending about 20 minutes on
+            your abs and core 3 days a week – you may notice a big difference. This Total Ab Workout
+            in 30 Minutes is a great place to start.\n\n
+            20.इसके अलग-अलग दर्शन हैं, लेकिन मैं
+               अपने पेट का व्यायाम करने का सबसे अच्छा तरीका यह है कि इसे सप्ताह में कुछ दिन, संक्षेप में करें
+               ऐसे वर्कआउट जो संपूर्ण शारीरिक वर्कआउट के साथ संयुक्त होते हैं। लगभग 20 मिनट बिताने का प्रयास करें
+               सप्ताह में 3 दिन आपके एब्स और कोर की जांच करें - आप एक बड़ा अंतर देख सकते हैं। यह टोटल एब वर्कआउट
+               30 मिनट में शुरुआत करने के लिए एक बेहतरीन जगह है।
+        </item>
+
+
+    </string-array>
+
+
+</resources>
